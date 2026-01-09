@@ -1,30 +1,44 @@
-<!-- Cyberpunk Header -->
+<!-- ================= ANIMATED CYBER HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:2afadf&height=220&section=header&text=PIYUSH%20BAMBORI&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff0080,50:7928ca,100:2afadf&height=240&section=header&text=PIYUSH%20BAMBORI&fontSize=48&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=2AFADF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer+In+The+Making;Full+Stack+Dev;Tech+%3D+My+Playground;Leveling+Up+Every+Day" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=800&color=2AFADF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+In+Progress;Full+Stack+Developer;Tech+Is+My+Game;Level+Up+Every+Day" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="60"/>
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="60"/>
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="60"/>
+</p>
 
 ---
 
 ## 🕹️ PLAYER PROFILE
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="120"/>
+</p>
+
 > **IGN:** Piyush Bambori  
 > **Class:** AI/ML Engineer  
 > **Guild:** Atlas SkillTech University  
-> **Special Abilities:** Full Stack Dev • Data Analytics • System Design  
+> **Playstyle:** Strategy • Automation • Scalability  
 
-I build **real-world tech** like a gamer clears levels —  
-one challenge at a time, with strategy, persistence, and upgrades.
+I build **real-world tech** the way gamers clear levels —  
+grinding skills, upgrading stacks, and shipping wins.
 
 From **financial tools** to **performance analysis systems**,  
-I enjoy turning complex problems into clean, scalable solutions.
+I turn complex problems into **clean, scalable solutions**.
 
 ---
 
 ## 🎯 CURRENT QUESTS
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="180"/>
+</p>
+
 - 🧠 Mastering **Machine Learning & System Design**
 - ⚙️ Building **production-grade projects**
 - 💼 Grinding for **tech & fintech internships**
@@ -40,15 +54,19 @@ I enjoy turning complex problems into clean, scalable solutions.
 
 ---
 
-## ⚔️ SKILL INVENTORY
+## ⚔️ SKILL INVENTORY (LIVE HUD)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,java,js,html,css,react,nextjs,nodejs,express,fastapi,flask,django,flutter,firebase,supabase,mysql,postgres,redis,sqlite,docker,git,github,tailwind,gcp&perline=9" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="220"/>
+</p>
+
 ---
 
-## 📊 PLAYER STATS
+## 📊 PLAYER STATS (ANIMATED)
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyuubambori&show_icons=true&theme=radical&hide_border=true" />
@@ -62,6 +80,11 @@ I enjoy turning complex problems into clean, scalable solutions.
 ---
 
 ## 🧪 POWER-UPS
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="180"/>
+</p>
+
 - **AI/ML:** NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow  
 - **Data:** Plotly, Matplotlib, Power BI  
 - **Backend:** FastAPI, Flask, Django, Node  
@@ -77,8 +100,25 @@ I enjoy turning complex problems into clean, scalable solutions.
 
 ---
 
-
+## 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2afadf,50:7928ca,100:ff0080&height=120&section=footer" />
+  <img src="https://media.giphy.com/media/26gsspfbt1HfVQ9va/giphy.gif" width="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=piyuubambori&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 👁️‍🗨️ PROFILE SCANS
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=piyuubambori&icon=6&color=12" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2afadf,50:7928ca,100:ff0080&height=140&section=footer&animation=twinkling" />
 </p>
