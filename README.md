@@ -1,46 +1,47 @@
-<!-- ================= CLEAN ANIMATED HEADER ================= -->
+<!-- ===== GTA SAN ANDREAS STYLE HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:00c6ff,100:00f5a0&height=220&section=header&text=PIYUSH%20BAMBORI&fontSize=46&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=PIYUSH%20BAMBORI&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer+in+Progress;Full+Stack+Developer;Building+Tech+Like+a+Game;Level+Up+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=24&pause=1000&color=22c55e&center=true&vCenter=true&width=700&lines=Welcome+to+Los+Santos;AI+%26+ML+Engineer+in+Progress;Full+Stack+Developer;Building+Tech+Like+a+Boss" />
 </h3>
 
 ---
 
-## 🕹️ PLAYER PROFILE
+## 🏙️ LOS SANTOS PROFILE
 
 > **Name:** Piyush Bambori  
-> **Role:** AI/ML Engineer (In Progress)  
-> **University:** Atlas SkillTech University  
-> **Focus:** AI • Data • Full Stack • Scalable Systems  
+> **Alias:** CJ in Code  
+> **Profession:** AI/ML Engineer (In Progress)  
+> **Base:** Atlas SkillTech University  
+> **Territory:** AI • Data • Full Stack • System Design  
 
-I build **real-world technology** with a gamer’s mindset —  
-clear objectives, continuous upgrades, and performance-driven execution.
+I build technology with the same mindset it takes to survive in **Los Santos** —  
+focus, adaptability, and constant upgrades.
 
 From **financial tools** to **performance analysis systems**,  
-I specialize in turning complex ideas into **clean, production-ready solutions**.
+I turn complex problems into **street-smart, production-ready solutions**.
 
 ---
 
-## 🎯 CURRENT QUESTS
+## 🎯 CURRENT MISSIONS
 - 🧠 Mastering **Machine Learning & System Design**  
 - ⚙️ Shipping **production-grade projects**  
 - 💼 Preparing for **tech & fintech internships**
 
 ---
 
-## 🌐 CONNECT
+## 🌐 CONTACT THE PLAYER
 <p align="center">
-  <a href="https://instagram.com/piyush_bambori"><img src="https://img.shields.io/badge/Instagram-7f00ff?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/piyush-bambori"><img src="https://img.shields.io/badge/LinkedIn-00c6ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:piyubambori@gmail.com"><img src="https://img.shields.io/badge/Email-00f5a0?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://instagram.com/piyush_bambori"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=22c55e"/></a>
+  <a href="https://linkedin.com/in/piyush-bambori"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=22c55e"/></a>
+  <a href="mailto:piyubambori@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=22c55e"/></a>
 </p>
 
 ---
 
-## ⚔️ SKILL INVENTORY
+## ⚔️ SKILL ARSENAL
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,java,js,html,css,react,nextjs,nodejs,express,fastapi,flask,django,flutter,firebase,supabase,mysql,postgres,redis,sqlite,docker,git,github,tailwind,gcp&perline=9" />
@@ -48,15 +49,15 @@ I specialize in turning complex ideas into **clean, production-ready solutions**
 
 ---
 
-## 📊 PLAYER STATS
+## 📊 STREET STATS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyuubambori&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=piyuubambori&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyuubambori&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=piyuubambori&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyuubambori&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyuubambori&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -70,27 +71,27 @@ I specialize in turning complex ideas into **clean, production-ready solutions**
 
 ---
 
-## 💬 DEV QUOTE
+## 💬 LOS SANTOS QUOTE
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
-## 🏆 TOP CONTRIBUTIONS
+## 🏆 RESPECT POINTS
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=piyuubambori&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=piyuubambori&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
-## 👁️ PROFILE VIEWS
+## 👁️‍🗨️ PLAYER SCANS
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=piyuubambori&icon=5&color=12" />
+  <img src="https://visitcount.itsvg.in/api?id=piyuubambori&icon=5&color=22" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5a0,50:00c6ff,100:7f00ff&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
 </p>
