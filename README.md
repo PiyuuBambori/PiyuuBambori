@@ -84,19 +84,7 @@ I focus on shipping **clean, production-grade solutions** that actually matter.
 
 ---
 
-## 🏆 HIGH SCORES — **PRO MODE**
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=piyuubambori&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
 
----
-
-## 👀 VISITOR COUNT
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=piyuubambori&icon=5&color=12" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2933,100:0b0f14&height=120&section=footer&animation=fadeIn" />
