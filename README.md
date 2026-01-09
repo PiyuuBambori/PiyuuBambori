@@ -77,19 +77,7 @@ I enjoy turning complex problems into clean, scalable solutions.
 
 ---
 
-## 🏆 TOP ACHIEVEMENTS
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=piyuubambori&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
 
----
-
-## 👁️‍🗨️ PROFILE VIEWS
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=piyuubambori&icon=6&color=12" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2afadf,50:7928ca,100:ff0080&height=120&section=footer" />
