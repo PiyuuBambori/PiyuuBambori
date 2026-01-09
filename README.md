@@ -62,9 +62,6 @@ I focus on shipping **clean, production-grade solutions** that actually matter.
   <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=piyuubambori&theme=github-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyuubambori&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
