@@ -1,89 +1,96 @@
-<!-- Animated Header -->
+<!-- Cyberpunk Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Piyush%20Bambori&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:2afadf&height=220&section=header&text=PIYUSH%20BAMBORI&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Full+Stack+Developer;Data+Analytics+Enthusiast;Building+Real+World+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=2AFADF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer+In+The+Making;Full+Stack+Dev;Tech+%3D+My+Playground;Leveling+Up+Every+Day" />
 </h3>
 
 ---
 
-## 💫 About Me
+## 🕹️ PLAYER PROFILE
 
-Hi, I’m **Piyush Bambori**, a Computer Science student specializing in **AI & Machine Learning** at **Atlas SkillTech University**.  
-I’m passionate about building practical tech solutions that combine **data, intelligence, and real-world impact**.
+> **IGN:** Piyush Bambori  
+> **Class:** AI/ML Engineer  
+> **Guild:** Atlas SkillTech University  
+> **Special Abilities:** Full Stack Dev • Data Analytics • System Design  
 
-I enjoy working across **AI/ML, data analytics, and full-stack development**, and I’ve built projects ranging from **financial tools** to **performance analysis systems**. I love breaking down complex problems, learning in public, and continuously improving my engineering skills.
+I build **real-world tech** like a gamer clears levels —  
+one challenge at a time, with strategy, persistence, and upgrades.
 
-### 🚀 Currently focused on:
-- Strengthening foundations in **Machine Learning & System Design**
-- Building **production-ready projects**
-- Preparing for **internships in tech & fintech**
-
-When I’m not coding, I’m exploring new tech stacks, refining my portfolio, and learning how to turn ideas into **scalable products**.
+From **financial tools** to **performance analysis systems**,  
+I enjoy turning complex problems into clean, scalable solutions.
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 CURRENT QUESTS
+- 🧠 Mastering **Machine Learning & System Design**
+- ⚙️ Building **production-grade projects**
+- 💼 Grinding for **tech & fintech internships**
+
+---
+
+## 🌐 PLAYER CONNECTIONS
 <p align="center">
-  <a href="https://instagram.com/piyush_bambori"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/piyush-bambori"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:piyubambori@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/piyush_bambori"><img src="https://img.shields.io/badge/Instagram-ff0080?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/piyush-bambori"><img src="https://img.shields.io/badge/LinkedIn-7928ca?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:piyubambori@gmail.com"><img src="https://img.shields.io/badge/Email-2AFADF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## ⚔️ SKILL INVENTORY
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,java,js,html,css,react,nextjs,nodejs,express,fastapi,flask,django,flutter,firebase,supabase,mysql,postgres,redis,sqlite,docker,git,github,figma,tailwind,gcp&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,rust,java,js,html,css,react,nextjs,nodejs,express,fastapi,flask,django,flutter,firebase,supabase,mysql,postgres,redis,sqlite,docker,git,github,tailwind,gcp&perline=9" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 PLAYER STATS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyuubambori&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=piyuubambori&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyuubambori&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=piyuubambori&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyuubambori&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyuubambori&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 AI / ML Toolbox
-- **Libraries:** NumPy, Pandas, Matplotlib, Plotly, Scikit-learn, PyTorch, TensorFlow  
-- **Domains:** Data Analytics, Predictive Modeling, Performance Analysis, Financial Tech  
+## 🧪 POWER-UPS
+- **AI/ML:** NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow  
+- **Data:** Plotly, Matplotlib, Power BI  
+- **Backend:** FastAPI, Flask, Django, Node  
 - **Databases:** MySQL, PostgreSQL, Redis, Neo4j  
-- **Cloud & DevOps:** Docker, Google Cloud, Vercel, Netlify  
+- **Cloud:** Docker, Google Cloud, Vercel, Netlify  
 
 ---
 
-## ✍️ Random Dev Quote
+## 💬 NPC QUOTE
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🏆 TOP ACHIEVEMENTS
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=piyuubambori&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=piyuubambori&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
-## 👀 Profile Views
+## 👁️‍🗨️ PROFILE VIEWS
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=piyuubambori&icon=5&color=6" />
+  <img src="https://visitcount.itsvg.in/api?id=piyuubambori&icon=6&color=12" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2afadf,50:7928ca,100:ff0080&height=120&section=footer" />
 </p>
