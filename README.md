@@ -58,7 +58,7 @@ I focus on shipping **clean, production-grade solutions** that actually matter.
 ## 📊 GAME STATS — **DARK HUD**
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyuubambori&show_icons=true&theme=github_dark&hide_border=true" />
+  
   <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=piyuubambori&theme=github-dark&hide_border=true" />
 </p>
 
